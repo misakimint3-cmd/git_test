@@ -1,2 +1,6 @@
 .dotfile
 .ds_store
+ignore.md
+*.md
+ignore_dir/
+test.textgit 
